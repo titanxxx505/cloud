@@ -1,3 +1,0 @@
-Bienvenue sur Alex Cloud !
-
-Ce petit fichier texte permet de tester le téléchargement. Clique sur « Télécharger » pour l’enregistrer sur ton appareil.
